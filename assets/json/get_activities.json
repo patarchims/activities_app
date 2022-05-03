@@ -1,0 +1,12 @@
+{
+ "activities": [
+ {
+ "id": 123456,
+ "activityType": "meeting",
+ "institution": "CV Anugrah Jaya",
+ "when": "2022-04-01T18:25:43.511Z",
+ "objective": "New Order",
+ "remarks": "Ada order twinlight"
+ }
+ ]
+}
